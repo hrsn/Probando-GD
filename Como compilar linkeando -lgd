@@ -1,0 +1,2 @@
+gcc '/home/henry/NetBeansProjects/intentogd4/maingd4.c' -o intentogd4 -lgd
+
